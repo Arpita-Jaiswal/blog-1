@@ -1,7 +1,7 @@
 -- import: fpm
 
--- fpm.package: <user_name>.github.io/<repo_name>
-download-base-url: https://raw.githubusercontent.com/<user_name>/<repo_name>/main
+-- fpm.package: arpita-jaiswal.github.io/blog-1
+download-base-url: https://raw.githubusercontent.com/arpita-jaiswal/blog-1/main
 
 -- fpm.dependency: fifthtry.github.io/doc-site as ds
 
